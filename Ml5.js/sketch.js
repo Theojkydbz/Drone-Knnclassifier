@@ -51,10 +51,6 @@ function keyPressed() {
     knn.addExample(logits, 'Botrytis');
     console.log('Botrytis');
   }
-  else if (key == 'p') {
-    knn.addExample(logits, 'pd');
-    console.log('pd');
-  }
 }
 
 function modelReady() {
