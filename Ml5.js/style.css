@@ -1,0 +1,25 @@
+p{
+background: #CCCCD2;
+border: 10px solid #CCCCD2;
+border-radius: 30px;
+
+
+font-family: Manrope3-Semibold;
+font-size: 37px;
+color: #3F3D56;
+letter-spacing: -0.04px;
+text-align: center;
+margin-block-start: 0.5em;
+}
+body{
+    background-color:#F0F0F0;
+}
+canvas{
+    height: 0px;
+    width: 0px;
+    display: none;
+}
+video{
+    border: 10px solid #CCCCD2;
+    border-radius: 30px;
+}
